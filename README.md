@@ -2,8 +2,6 @@
 
 A machine learning project that predicts whether it will rain today in the Melbourne, Australia area, using historical weather observations and a complete Scikit-learn preprocessing and classification pipeline.
 
-Developed as the final project for the **IBM AI Engineering Professional Certificate** (Machine Learning with Python course).
-
 ---
 
 ## 📌 Project Overview
